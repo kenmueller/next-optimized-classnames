@@ -1,0 +1,37 @@
+{
+	"name": "next-optimized-classnames",
+	"description": "Reduce all CSS classes produced by CSS modules to the smallest form possible",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"types": "types/index.d.ts",
+	"dependencies": {
+		"css-class-generator": "^2.0.0"
+	},
+	"keywords": [
+		"next",
+		"nextjs",
+		"next.js",
+		"minify",
+		"optimize",
+		"class",
+		"classname",
+		"css",
+		"scss",
+		"sass"
+	],
+	"homepage": "https://github.com/kenmueller/next-optimized-classnames#readme",
+	"bugs": {
+		"url": "https://github.com/kenmueller/next-optimized-classnames/issues",
+		"email": "kenmueller0@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kenmueller/next-optimized-classnames.git"
+	},
+	"author": {
+		"name": "Ken Mueller",
+		"email": "kenmueller0@gmail.com",
+		"url": "https://github.com/kenmueller"
+	},
+	"license": "MIT"
+}
