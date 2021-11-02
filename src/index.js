@@ -1,7 +1,7 @@
 const { join, relative } = require('path')
 const generateName = require('css-class-generator')
 
-const CSS_LOADER_MATCH = join('compiled', 'css-loader', 'cjs.js')
+const CSS_LOADER_MATCH = join('loaders', 'css-loader', 'src', 'index.js')
 
 const names = {}
 let index = 0
